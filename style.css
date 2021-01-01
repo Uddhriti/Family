@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    color:lightblue;
+    
+  }
+  body{
+    background-color:orange;
+    text-align:center;
+    
+  }
+  #FirstPerson{
+    height:250px;
+    border:solid;
+    padding:5px;
+    border-radius:80px;
+    border-color:skyblue;
+    width: 250px;
+  }
+  #FirstName{
+    font-size:50px;
+    color:#40C4FF;
+    font-family:sans-serif;
+    
+    
+  }
+  #nextbutton{
+
+color:sky b;
+
+  }
